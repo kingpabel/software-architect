@@ -1,0 +1,20 @@
+{
+  "name": "kingpabel/software-architect",
+  "description": "Demonstrates design pattern",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Pattern\\": "pattern/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Imtiaz Pabel",
+      "email": "ippabel@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  }
+}
