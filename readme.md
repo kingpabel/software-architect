@@ -1,4 +1,4 @@
-<?php
+```
 
 require_once './vendor/autoload.php';
 
@@ -38,3 +38,4 @@ $user->setName('Imtiaz Pabel');
 $user->setUsername('pabel');
 $user->setPassword('password');
 var_dump(clone $user);
+```
